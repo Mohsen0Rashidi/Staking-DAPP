@@ -1,6 +1,7 @@
 require("@nomicfoundation/hardhat-toolbox")
 require("@nomiclabs/hardhat-ethers")
 require("@nomiclabs/hardhat-solhint")
+require("@nomiclabs/hardhat-etherscan")
 require("solidity-coverage")
 require("dotenv").config()
 require("hardhat-deploy")
